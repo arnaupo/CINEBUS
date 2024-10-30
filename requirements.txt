@@ -1,0 +1,5 @@
+A més de les llibreries empreades pel projecte potser és necessari instal·lar com a complement d'aquestes:
+    -scikit_learn (pel draw de grafs)
+    -lxml (complement del BeautifulSoup)
+A més a més, pel plotting dels garfs cal haver instal·lat matplotlib.
+Finalment, com a llibreria extra, cal instal·lar el datetime, ja que d'aquesta manera es pot saber l'hora de l'usuari.
